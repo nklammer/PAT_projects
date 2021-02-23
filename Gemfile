@@ -13,7 +13,7 @@ gem 'openstudio-model-articulation', github: 'NREL/openstudio-model-articulation
 gem 'openstudio-common-measures', github: 'NREL/openstudio-common-measures-gem', branch: 'develop'
 gem 'openstudio-ee', github: 'NREL/openstudio-ee-gem', branch: 'develop'
 gem 'openstudio-aedg', github: 'NREL/openstudio-aedg-gem', branch: 'develop'
-gem 'openstudio-calibration-measures', github: 'NREL/openstudio-calibration-gem', branch: 'develop'
+gem 'openstudio-calibration, github: 'NREL/openstudio-calibration-gem', branch: 'develop'
 
 # other gems
 gem 'parallel', '~> 1.19', '>= 1.19.2'
