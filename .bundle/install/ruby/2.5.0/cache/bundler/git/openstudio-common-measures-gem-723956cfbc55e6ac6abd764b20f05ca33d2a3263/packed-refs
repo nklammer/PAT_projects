@@ -1,0 +1,24 @@
+# pack-refs with: peeled fully-peeled sorted 
+d14ab0a10cf33cc3e91329bf815b55c047d87cc2 refs/heads/0.1.X-LTS
+dd6b57ecfb5b22ec5e258b6b340393adf068663c refs/heads/0.2.X-LTS
+4419a0b51053c6b682acf4e005c7177fe1596a91 refs/heads/develop
+4d5b591eff64afc3cee2baf36d733da2ff60dad5 refs/heads/ev_measure_updates
+92bb675b399286b17f15ae1a7e27d68f0eed47a3 refs/heads/fix/radiant_slab_with_doas
+fb95cc598e6685c047cdccd35ed3396e6524a21a refs/heads/master
+5cb203beed5fbcbbaf2f02e81052bae398cd918e refs/heads/update_jenkins_ci
+dca0dd9751ff8c95d1d693f0059018c3ddae447e refs/tags/v0.1.0
+^de87f8c453642aac53246d7ad5017fbea1ca5911
+f4425c7c01ebabe8ad1ac5d863c9328ada506975 refs/tags/v0.1.1
+^2f779c432854903c80df0e67214046e5fba5dadc
+7c4d20eb6c96b5e62ea8aff9e525535de5237c5e refs/tags/v0.1.2
+^d14ab0a10cf33cc3e91329bf815b55c047d87cc2
+1344513c3d7d2ca7e7fd985d623017e7216505f9 refs/tags/v0.2.0
+^bcbdc61495159c68fb9b19d13becbc70b17c1631
+994b0808a412502eaa13d2d9be78d1fe5b1ab84d refs/tags/v0.2.1
+^ee30d21a557a86ca0f644e9ebadbef3a9207ea7c
+d55ab497540cfadd923cfd00eb1c8cefbf657696 refs/tags/v0.3.0
+^ce3e18dad8c20f6fcabf305a05f5a01601df407a
+1c1f20e24926d24bc6e06e20ae7fe1b20a555678 refs/tags/v0.3.1
+^c1550e56a4f5e81bf9f37cd601fe1cd2c4776d00
+1ad4b55ea5a5d5deae49e4df3707627f68717357 refs/tags/v0.3.2
+^fb95cc598e6685c047cdccd35ed3396e6524a21a

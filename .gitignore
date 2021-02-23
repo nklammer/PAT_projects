@@ -1,6 +1,0 @@
-*/*/*/run
-*/*/*/reports
-*/*/*/out.osw
-.bundle/install
-Gemfile.lock
-.DS_Store

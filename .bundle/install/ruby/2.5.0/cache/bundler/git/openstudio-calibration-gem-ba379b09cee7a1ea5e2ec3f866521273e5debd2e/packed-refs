@@ -1,0 +1,21 @@
+# pack-refs with: peeled fully-peeled sorted 
+5bbf758252cfdf5a1214d260f61eed6f73ae3510 refs/heads/0.1.X-LTS
+9b6c467281c1c48b95e7e9705f8d1e27f9be3b87 refs/heads/adjust-hours-of-operation
+3b0a2b0b6adaaab13f16077f30c587acbd241204 refs/heads/develop
+104f75f401913ea291d9d7fed942f05dd78c97cc refs/heads/hardsize_update
+016c10690d5ae7e890f718370248aefdd58414aa refs/heads/master
+0273b649fdeb1de3dc8e75651299521d0ef3c9d3 refs/heads/remove_zone_report
+6e08c8735d97db55a56e0d085b10ed0a2a7acfd1 refs/tags/v0.1.1
+^5bbf758252cfdf5a1214d260f61eed6f73ae3510
+7660ddc4d595e982b3e807379469104c3451584b refs/tags/v0.1.2
+^48fe5494c3c383763ad75b315cab3b54312f9bde
+fcd5e9d070d95a9d5085b5a6f905babe13b420f2 refs/tags/v0.1.3
+^3dfaf59c9528a8a99a81cc62423594bdd6389fe4
+52ba5c0a8cafeffbb8bc03a8c90231dfb7ab4778 refs/tags/v0.1.4
+^95e8045e82e52528c1948c45225df0b2cae760c6
+4c79055a1719ef69cf7c174795bafab40ecd5f9b refs/tags/v0.2.0
+^509493a4d9aeac607a8604994f766c7bcdbfe050
+b961a69bdffa5fc6664ab1325b55001a14ca0637 refs/tags/v0.3.0
+^cdf89ff6d4ef5adb6e9d3d83a44076e2be2c2cb2
+8931b0668972e8e916a2a373c55942479ede9691 refs/tags/v0.3.1
+^016c10690d5ae7e890f718370248aefdd58414aa
